@@ -18,7 +18,7 @@ reports/*.json
 
 # File tam do test/thu nghiem sinh ra (khong phai bang chung)
 reports/_*.jsonl
-reports/runbook-run.jsonl
+!reports/runbook-run.jsonl
 
 # Python
 __pycache__/
